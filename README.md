@@ -86,7 +86,6 @@ You can find more of what I’ve done and what I’m learning in this repo and a
 ## 🌐 Let’s Connect
 
 - 💼 LinkedIn: [Jinglue Zhang](https://www.linkedin.com/in/jinglue-zhang-6027812b7/)  
-- 📧 Email: [zhangjinglue2@gmail.com](mailto:zhangjinglue2@gmail.com)  
-- 📸 Instagram (EV & car content): [@YOUR_EV_ACCOUNT](https://www.instagram.com/YOUR_EV_ACCOUNT)  
+- 📧 Email: [zhangjinglue2@gmail.com](mailto:zhangjinglue2@gmail.com)   
 
 If you’re interested in **analytics, marketing research, EVs, or collaborative data projects**, I’d love to connect!  
