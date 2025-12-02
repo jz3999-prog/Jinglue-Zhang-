@@ -6,7 +6,7 @@
 
 <p align="center">
   <!-- Small social icons / badges -->
-  <a href="https://www.linkedin.com/in/YOUR_LINK_HERE">
+  <a href="https://www.linkedin.com/in/jinglue-zhang-6027812b7/">
     <img src="https://img.shields.io/badge/LinkedIn-Kevin%20Zhang-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:zhangjinglue2@gmail.com">
